@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: #019a0c;
+  background-color: #a6e8aa;
   display: flex;
   justify-content: center;
   align-items: flex-start;
@@ -14,7 +14,7 @@ body {
 }
 
 .form-container {
-  background-color: #2eec19;
+  background-color: #16af05;
   padding: 25px 30px;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -39,7 +39,7 @@ form textarea {
   width: 100%;
   padding: 10px;
   margin-top: 5px;
-  border: 1px solid #03eaf2;
+  border: 1px solid #021314;
   border-radius: 4px;
 }
 
@@ -47,7 +47,7 @@ form button {
   margin-top: 20px;
   width: 100%;
   padding: 10px;
-  background-color: #03ee69;
+  background-color: #558d6d;
   border: none;
   color: rgb(10, 0, 0);
   font-size: 16px;
